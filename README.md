@@ -7,5 +7,6 @@ react-native run-ios
 
 
 ```
+ScreenShot
 
 ![ss](https://github.com/furkancelik/react-native-map-clustering-example/blob/master/ss.gif?raw=true)
